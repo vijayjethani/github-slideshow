@@ -1,5 +1,5 @@
 ---
 layout: slide
-Title: Welcome to Second Slide
+title: welcome to Second Slide
 ---
 Use left arrow to go back !
