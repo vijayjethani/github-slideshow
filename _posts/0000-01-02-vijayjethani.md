@@ -1,5 +1,5 @@
 ---
-Layout: Slide
+layout: slide
 Title: Welcome to Second Slide
 ---
 changing practice slide now
